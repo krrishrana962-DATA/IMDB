@@ -45,7 +45,8 @@ Source: [IMDB Non-Commercial Datasets](https://developer.imdb.com/non-commercial
 
 ## Schema / ERD
 
-![ERD](schema/erd.svg)
+<img width="1616" height="973" alt="erd" src="https://github.com/user-attachments/assets/aa0bca73-591e-4021-9690-1878c0b8094c" />
+
 
 The `title` table is the central hub. `ratings` and `crew` have a 1-to-1 relationship with it. `akas`, `episode`, and `principals` are 1-to-many. `principals` acts as a bridge table connecting `title` and `name`.
 
