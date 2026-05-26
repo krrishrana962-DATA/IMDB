@@ -229,7 +229,6 @@ The ingestion queries at the top of `imdb_analysis.sql` use relative paths. Make
 
     imdb-sql-analysis/
     ├── README.md
-    ├── .gitignore
     ├── sql/
     │   └── imdb_analysis.sql
     └── schema/
