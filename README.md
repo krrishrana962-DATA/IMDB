@@ -237,5 +237,5 @@ The ingestion queries at the top of `imdb_analysis.sql` use relative paths. Make
 ## Author
 
 **Krrish_rana**
-data analyst | SQL · Python · DuckDB
+data analyst | SQL · DuckDB
 
